@@ -28,7 +28,7 @@ const Content = () => {
             <Box>
               <Typography variant="h4">
                 I watched{" "}
-                <a href="https://sflix.to/tv/free-atypical-hd-38379"><i style={{ color: "var(--primary-color)" }}>Atypical</i></a> for
+                <a href="https://sflix.to/tv/free-atypical-hd-38379" target="_blank" rel="noreferrer"><i style={{ color: "var(--primary-color)" }}>Atypical</i></a> for
                 the plot
               </Typography>
               <Typography variant="h6">The plot :</Typography>
